@@ -1,4 +1,13 @@
+name: DrJCMMcGill
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/babecf97-86c4-4f46-a7a6-4ba9da2712e4.jpg
+layout_spectrum: 0.35365366330370307
 typography_spectrum: 0.4702101666480303
+cta: {}
+analytics: {}
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#E0FBFC'
@@ -10,26 +19,11 @@ color:
   lightness: 0.5274833932053298
   saturation: 0.702801579143852
   rhythmicContrast: 0.4363237163051963
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.35365366330370307
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+purpose: []
+title: TheASCDoctor
 author:
   name: Dr JCM McGill
-  email: drjcmmcgill@gmail.com
   url: www.josephcmcgill.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/babecf97-86c4-4f46-a7a6-4ba9da2712e4.jpg
-name: DrJCMMcGill
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: null
-title: TheASCDoctor
-purpose: []
+  email: drjcmmcgill@gmail.com
+content_rating:
+  adult: false
